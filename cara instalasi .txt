@@ -1,0 +1,10 @@
+Cara Instalasi :
+
+1. Clone repositori ini
+2. Import database dengan nama tubes_lapor
+3. Buka dan jalankan XAMPP
+4. Buka folder file ini lewat localhost pada browser
+
+Arya Daulat 118140128
+Michael Jireh M 118140112
+Radha Chandra 118140031
